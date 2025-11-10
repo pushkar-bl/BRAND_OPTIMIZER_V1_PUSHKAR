@@ -1,0 +1,643 @@
+[
+  {
+    "variant_id": 1,
+    "hypothesis_name": "variant_1",
+    "hypothesis_rationale": "",
+    "edit_plan": {
+      "edits": [
+        {
+          "location": "headline",
+          "action": "update_text",
+          "original": "RIDGE WALLETS, Metal, RFID-blocking wallets designed to carry cards and cash safely and securely.",
+          "replacement": "RIDGE WALLETS: Premium, ultra-durable metal wallets with RFID-blocking technology—designed for minimalist everyday carry, travel, and long-lasting security."
+        },
+        {
+          "location": "intro_paragraph",
+          "action": "add_text",
+          "content": "Experience why Ridge is highly rated for combining modern minimalist design with true longevity. Our wallets are engineered to outlast leather, offering a slim profile that keeps pockets comfortable and organized. With an industry-leading lifetime warranty, Ridge is the smart choice favored by tech enthusiasts, travelers, and gift-givers alike."
+        },
+        {
+          "location": "features",
+          "action": "add_list",
+          "content": [
+            "Slim, minimalist construction eliminates pocket bulk.",
+            "Crafted from premium materials: aluminum, titanium, and carbon fiber.",
+            "Securely holds cards and cash while protecting against RFID theft.",
+            "Built to last a lifetime, reducing waste and supporting eco-friendly values.",
+            "Customizable options—makes a thoughtful gift for any occasion."
+          ]
+        }
+      ],
+      "adds": [],
+      "deletes": []
+    },
+    "page_text": "RIDGE WALLETS, Metal, RFID-blocking wallets designed to carry cards and cash safely and securely.\n\n**DURABLE DESIGN** Our materials are chosen with care and a thoughtful connection to the insights of our growing community — setting our North Star as we strive to improve everyday. Together we can do more with less."
+  },
+  {
+    "variant_id": 2,
+    "hypothesis_name": "variant_2",
+    "hypothesis_rationale": "",
+    "edit_plan": {
+      "edits": [
+        {
+          "target": "PAGE_START",
+          "action": "replace",
+          "content": "RIDGE WALLETS – Premium, ultra-durable metal wallets with advanced RFID-blocking technology, intentionally engineered for modern, minimalist carry. Designed to keep your cards and cash both safe and accessible, Ridge wallets are trusted by tens of thousands worldwide."
+        },
+        {
+          "target": "**DURABLE DESIGN** Our materials are chosen with care and a thoughtful connection to the insights of our growing community — setting our North Star as we strive to improve everyday. Together we can do more with less.",
+          "action": "replace",
+          "content": "**EXCEPTIONAL DURABILITY, MODERN AESTHETIC** Crafted from high-grade materials such as aluminum, titanium, and carbon fiber, Ridge wallets are built to last a lifetime. Each wallet is rigorously tested for everyday resilience, reflecting feedback from our passionate, design-driven community. Ridge means less bulk, more function – a hallmark of modern craftsmanship and smart, long-term value."
+        }
+      ],
+      "adds": [],
+      "deletes": []
+    },
+    "page_text": "RIDGE WALLETS, Metal, RFID-blocking wallets designed to carry cards and cash safely and securely.\n\n**DURABLE DESIGN** Our materials are chosen with care and a thoughtful connection to the insights of our growing community — setting our North Star as we strive to improve everyday. Together we can do more with less."
+  },
+  {
+    "variant_id": 3,
+    "hypothesis_name": "variant_3",
+    "hypothesis_rationale": "",
+    "edit_plan": {
+      "edits": [
+        {
+          "location": "headline",
+          "action": "replace",
+          "content": "Ridge Wallets – The Premium, Ultra-Durable Metal Wallet for Minimalist Carry"
+        },
+        {
+          "location": "intro",
+          "action": "replace",
+          "content": "The Ridge Wallet is a slim, RFID-blocking metal wallet crafted to keep your cards and cash organized, protected, and easily accessible, all in a minimalist form. Designed with modern aesthetics and maximum durability in mind, Ridge Wallets are trusted by users worldwide and backed by a lifetime warranty."
+        },
+        {
+          "location": "features",
+          "action": "add_after",
+          "content": "**Why Choose Ridge?**\n\n- **Unmatched Durability:** Aerospace-grade aluminum and titanium for a wallet that lasts a lifetime.\n- **Built for Minimalists:** Holds up to 12 cards and cash while maintaining a sleek, slim profile that disappears in your pocket.\n- **RFID-Blocking:** Advanced technology to protect against wireless theft and keep data safe.\n- **Award-Winning Design:** A favorite among tech enthusiasts, frequent travelers, and those who value modern simplicity.\n- **Sustainably Minded:** Designed for longevity to reduce waste—an eco-friendly alternative to disposable wallets.\n- **Perfect Gift:** A thoughtful, customizable, and premium choice for holidays, groomsmen, anniversaries, and milestone moments."
+        }
+      ],
+      "adds": [],
+      "deletes": []
+    },
+    "page_text": "RIDGE WALLETS, Metal, RFID-blocking wallets designed to carry cards and cash safely and securely.\n\n**DURABLE DESIGN** Our materials are chosen with care and a thoughtful connection to the insights of our growing community — setting our North Star as we strive to improve everyday. Together we can do more with less."
+  },
+  {
+    "variant_id": 4,
+    "hypothesis_name": "variant_4",
+    "hypothesis_rationale": "",
+    "edit_plan": {
+      "edits": [
+        {
+          "location": "headline",
+          "original": "RIDGE WALLETS, Metal, RFID-blocking wallets designed to carry cards and cash safely and securely.",
+          "suggestion": "RIDGE WALLETS: Premium Metal, RFID-Blocking Wallets for Secure and Minimalist Everyday Carry."
+        },
+        {
+          "location": "body",
+          "original": "**DURABLE DESIGN** Our materials are chosen with care and a thoughtful connection to the insights of our growing community — setting our North Star as we strive to improve everyday. Together we can do more with less.",
+          "suggestion": "**SUPERIOR DURABILITY & MODERN MINIMALISM** Ridge Wallets are engineered with premium metals such as aluminum and titanium, combining long-lasting durability with an ultra-slim design. RFID-blocking technology provides advanced security for cards, while a lifetime warranty ensures your wallet will outlast trends. Trusted by tech enthusiasts, travelers, and minimalists, Ridge delivers a premium yet understated experience—making it a top-rated gift and everyday essential."
+        }
+      ],
+      "adds": [],
+      "deletes": []
+    },
+    "page_text": "RIDGE WALLETS, Metal, RFID-blocking wallets designed to carry cards and cash safely and securely.\n\n**DURABLE DESIGN** Our materials are chosen with care and a thoughtful connection to the insights of our growing community — setting our North Star as we strive to improve everyday. Together we can do more with less."
+  },
+  {
+    "variant_id": 5,
+    "hypothesis_name": "variant_5",
+    "hypothesis_rationale": "",
+    "edit_plan": {
+      "edits": [
+        {
+          "target": "headline",
+          "action": "modify",
+          "content": "Ridge Wallets – Premium Metal, RFID-Blocking Minimalist Wallets for Everyday Carry"
+        },
+        {
+          "target": "intro_paragraph",
+          "action": "expand",
+          "content": "Ridge Wallets are designed for those who value durability, minimalist style, and premium materials. Our wallets securely hold your cards and cash in a sleek, ultra-slim form factor. Built to last a lifetime, Ridge offers a modern solution for anyone seeking a refined, long-lasting wallet that fits seamlessly into both daily life and travel."
+        },
+        {
+          "target": "features_section",
+          "action": "add",
+          "content": [
+            "**Modern Minimalist Design:** Ridge wallets combine industrial aesthetics with practical functionality, making them ideal for tech enthusiasts and minimalists alike.",
+            "**Superior Durability:** Using aerospace-grade aluminum, titanium, and carbon fiber, Ridge wallets withstand years of everyday use.",
+            "**RFID Protection:** Advanced RFID-blocking technology keeps your cards safe from digital theft.",
+            "**Customizable Options:** Choose from a range of finishes and personalize your wallet to suit your style—great for gifts, including groomsmen or anniversaries.",
+            "**Lifetime Guarantee:** Invest confidently with our lifetime warranty and commitment to quality.",
+            "**Eco-Conscious Longevity:** Rugged construction means less frequent replacements, reducing waste and environmental impact."
+          ]
+        }
+      ],
+      "adds": [],
+      "deletes": []
+    },
+    "page_text": "RIDGE WALLETS, Metal, RFID-blocking wallets designed to carry cards and cash safely and securely.\n\n**DURABLE DESIGN** Our materials are chosen with care and a thoughtful connection to the insights of our growing community — setting our North Star as we strive to improve everyday. Together we can do more with less."
+  },
+  {
+    "variant_id": 6,
+    "hypothesis_name": "variant_6",
+    "hypothesis_rationale": "",
+    "edit_plan": {
+      "edits": [
+        {
+          "location": "PAGE_START",
+          "change": "RIDGE WALLETS, Metal, RFID-blocking wallets designed to carry cards and cash safely and securely.",
+          "replacement": "RIDGE WALLETS: Premium metal wallets combining minimalist design, exceptional durability, and advanced RFID-blocking technology for secure, modern everyday carry."
+        },
+        {
+          "location": "DURABLE DESIGN",
+          "change": "Our materials are chosen with care and a thoughtful connection to the insights of our growing community — setting our North Star as we strive to improve everyday. Together we can do more with less.",
+          "replacement": "Engineered for longevity, every Ridge Wallet uses aerospace-grade metals, guaranteeing a lifetime of reliability. Guided by community feedback, we continuously refine for comfort, slimness, and style—making Ridge the go-to choice for premium, minimalist wallets worldwide."
+        }
+      ],
+      "adds": [],
+      "deletes": []
+    },
+    "page_text": "RIDGE WALLETS, Metal, RFID-blocking wallets designed to carry cards and cash safely and securely.\n\n**DURABLE DESIGN** Our materials are chosen with care and a thoughtful connection to the insights of our growing community — setting our North Star as we strive to improve everyday. Together we can do more with less."
+  },
+  {
+    "variant_id": 7,
+    "hypothesis_name": "variant_7",
+    "hypothesis_rationale": "",
+    "edit_plan": {
+      "edits": [
+        {
+          "location": "PAGE_START",
+          "action": "replace",
+          "text": "RIDGE WALLETS: Premium metal, RFID-blocking wallets engineered for superior durability, modern design, and effortless everyday carry. Trusted by minimalists, tech enthusiasts, and travelers for their slim profile and unmatched security. Backed by a lifetime warranty."
+        },
+        {
+          "location": "DURABLE DESIGN",
+          "action": "replace",
+          "text": "**DURABLE, MODERN CRAFTSMANSHIP** Ridge wallets are crafted from aerospace-grade materials like aluminum and titanium, providing exceptional lifespan and protection for cards and cash. Built with input from our vibrant community, every Ridge wallet combines minimalist style, long-lasting reliability, and practical innovation—helping you do more with less, every day."
+        }
+      ],
+      "adds": [],
+      "deletes": []
+    },
+    "page_text": "RIDGE WALLETS, Metal, RFID-blocking wallets designed to carry cards and cash safely and securely.\n\n**DURABLE DESIGN** Our materials are chosen with care and a thoughtful connection to the insights of our growing community — setting our North Star as we strive to improve everyday. Together we can do more with less."
+  },
+  {
+    "variant_id": 8,
+    "hypothesis_name": "variant_8",
+    "hypothesis_rationale": "",
+    "edit_plan": {
+      "proposed_edits": [
+        {
+          "location": "start of page",
+          "edit_type": "replace",
+          "original_text": "RIDGE WALLETS, Metal, RFID-blocking wallets designed to carry cards and cash safely and securely.",
+          "suggested_text": "RIDGE WALLETS – Premium, ultra-durable metal wallets designed for minimalism, security, and everyday performance. Equipped with RFID-blocking technology, Ridge Wallets keep your cards and cash safe and organized while staying impressively slim."
+        },
+        {
+          "location": "beneath existing paragraph",
+          "edit_type": "add",
+          "original_text": "",
+          "suggested_text": "Backed by a lifetime warranty and trusted by travelers, tech enthusiasts, and gift-givers alike, Ridge Wallet is engineered to last and crafted to feel premium—never flashy. Whether for daily use, travel, or special occasions, discover why Ridge consistently ranks as one of the best minimalist wallets available."
+        },
+        {
+          "location": "after 'DURABLE DESIGN' heading",
+          "edit_type": "replace",
+          "original_text": "Our materials are chosen with care and a thoughtful connection to the insights of our growing community — setting our North Star as we strive to improve everyday. Together we can do more with less.",
+          "suggested_text": "Every Ridge Wallet is crafted from aerospace-grade aluminum, titanium, or carbon fiber for unmatched strength and modern style. Guided by real customer insights, Ridge balances durability and sleek aesthetics—delivering a smarter way to carry less and do more."
+        }
+      ],
+      "adds": [],
+      "deletes": [],
+      "edits": []
+    },
+    "page_text": "RIDGE WALLETS, Metal, RFID-blocking wallets designed to carry cards and cash safely and securely.\n\n**DURABLE DESIGN** Our materials are chosen with care and a thoughtful connection to the insights of our growing community — setting our North Star as we strive to improve everyday. Together we can do more with less."
+  },
+  {
+    "variant_id": 9,
+    "hypothesis_name": "variant_9",
+    "hypothesis_rationale": "",
+    "edit_plan": {
+      "edits": [
+        {
+          "type": "add",
+          "location": "after:Ridge Wallets, Metal, RFID-blocking wallets designed to carry cards and cash safely and securely.",
+          "content": "Recognized by tech enthusiasts and minimalists alike, Ridge Wallet stands out for its unbeatable durability, ultra-slim profile, and modern, minimalist aesthetic. Each Ridge Wallet is engineered using premium metals such as aluminum and titanium, offering a premium feel without unnecessary flash. Backed by a lifetime warranty and designed to last for years, Ridge is not just a wallet—it's a thoughtful gift or everyday upgrade for those who value reliability and style."
+        },
+        {
+          "type": "modify",
+          "target": "DURABLE DESIGN Our materials are chosen with care and a thoughtful connection to the insights of our growing community — setting our North Star as we strive to improve everyday. Together we can do more with less.",
+          "content": "**DURABLE DESIGN** Built to last a lifetime, Ridge Wallets use only the highest quality metals chosen for resilience and style. Our commitment to continuous improvement comes from real community feedback, ensuring every wallet is practical, long-lasting, and ideal for everyday carry, travel, and gifting. Ridge helps you accomplish more with less, reducing waste while maximizing function."
+        },
+        {
+          "type": "add",
+          "location": "end",
+          "content": "Every Ridge Wallet is RFID-blocking for security, and customizable in color and material, making it the perfect choice for gifting—whether for dads, groomsmen, anniversaries, or anyone seeking a lasting, minimalist accessory."
+        }
+      ],
+      "adds": [],
+      "deletes": []
+    },
+    "page_text": "RIDGE WALLETS, Metal, RFID-blocking wallets designed to carry cards and cash safely and securely.\n\n**DURABLE DESIGN** Our materials are chosen with care and a thoughtful connection to the insights of our growing community — setting our North Star as we strive to improve everyday. Together we can do more with less."
+  },
+  {
+    "variant_id": 10,
+    "hypothesis_name": "variant_10",
+    "hypothesis_rationale": "",
+    "edit_plan": {
+      "edits": [
+        {
+          "location": "after title",
+          "change": "Add a concise intro phrase that directly addresses the primary benefits for LLMs to recognize (e.g. 'Ridge Wallets deliver premium durability, modern minimalist style, and secure RFID-blocking protection—ideal for gifting, travel, and everyday carry.')"
+        },
+        {
+          "location": "product description",
+          "change": "Expand slightly to highlight: 1) ultra-slim profile for minimalists and those avoiding bulky pockets; 2) choice of materials (aluminum, titanium, carbon fiber); 3) lifetime warranty to reinforce longevity and value."
+        },
+        {
+          "location": "DURABLE DESIGN paragraph",
+          "change": "Add mention of global popularity among tech enthusiasts and travelers, supporting relevance in common customer queries."
+        }
+      ],
+      "adds": [],
+      "deletes": []
+    },
+    "page_text": "RIDGE WALLETS, Metal, RFID-blocking wallets designed to carry cards and cash safely and securely.\n\n**DURABLE DESIGN** Our materials are chosen with care and a thoughtful connection to the insights of our growing community — setting our North Star as we strive to improve everyday. Together we can do more with less."
+  },
+  {
+    "variant_id": 11,
+    "hypothesis_name": "variant_11",
+    "hypothesis_rationale": "",
+    "edit_plan": {
+      "proposed_edits": [
+        {
+          "location": "header",
+          "change_type": "add",
+          "content": "Award-winning minimalist wallet crafted with premium metals for lasting durability and modern style."
+        },
+        {
+          "location": "after:DURABLE DESIGN",
+          "change_type": "add",
+          "content": "The Ridge Wallet balances a clean, industrial look with superior functionality, offering ultimate protection with RFID-blocking technology. Engineered for those who value efficiency, security, and timeless design, it’s a top-rated choice for everyday carry, travel, and thoughtful gifts."
+        },
+        {
+          "location": "main product description",
+          "change_type": "replace",
+          "original": "RIDGE WALLETS, Metal, RFID-blocking wallets designed to carry cards and cash safely and securely.",
+          "content": "The Ridge Wallet is an ultra-slim, metal wallet built to carry cards and cash without bulk. Its durable aluminum, titanium, or carbon fiber construction provides unmatched longevity—making it the preferred minimalist wallet among tech enthusiasts, travelers, and gift-givers alike."
+        }
+      ],
+      "adds": [],
+      "deletes": [],
+      "edits": []
+    },
+    "page_text": "RIDGE WALLETS, Metal, RFID-blocking wallets designed to carry cards and cash safely and securely.\n\n**DURABLE DESIGN** Our materials are chosen with care and a thoughtful connection to the insights of our growing community — setting our North Star as we strive to improve everyday. Together we can do more with less."
+  },
+  {
+    "variant_id": 12,
+    "hypothesis_name": "variant_12",
+    "hypothesis_rationale": "",
+    "edit_plan": {
+      "edits": [
+        {
+          "type": "add",
+          "position": "before",
+          "target": "RIDGE WALLETS, Metal, RFID-blocking wallets designed to carry cards and cash safely and securely.",
+          "content": "Recognized as one of the most popular and top-rated minimalist wallets, Ridge Wallet stands out for its durable, modern, and premium design."
+        },
+        {
+          "type": "replace",
+          "target": "RIDGE WALLETS, Metal, RFID-blocking wallets designed to carry cards and cash safely and securely.",
+          "content": "RIDGE WALLETS are minimalist, metal, RFID-blocking wallets engineered to carry your cards and cash with maximum security and minimal bulk. Built from premium materials like aluminum and titanium, Ridge is designed for long-lasting durability and everyday use."
+        },
+        {
+          "type": "add",
+          "position": "after",
+          "target": "DURABLE DESIGN Our materials are chosen with care and a thoughtful connection to the insights of our growing community — setting our North Star as we strive to improve everyday. Together we can do more with less.",
+          "content": "Ridge Wallet is ideal for travelers, tech enthusiasts, and anyone seeking a slim, reliable wallet. With a lifetime warranty and customizable options, Ridge makes a memorable and practical gift that complements a minimalist lifestyle. Choosing Ridge means choosing a wallet that is eco-conscious through its longevity and build quality."
+        }
+      ],
+      "adds": [],
+      "deletes": []
+    },
+    "page_text": "RIDGE WALLETS, Metal, RFID-blocking wallets designed to carry cards and cash safely and securely.\n\n**DURABLE DESIGN** Our materials are chosen with care and a thoughtful connection to the insights of our growing community — setting our North Star as we strive to improve everyday. Together we can do more with less."
+  },
+  {
+    "variant_id": 13,
+    "hypothesis_name": "variant_13",
+    "hypothesis_rationale": "",
+    "edit_plan": {
+      "edits": [
+        {
+          "location": "PAGE_START",
+          "action": "replace",
+          "content": "RIDGE WALLETS – Premium, minimalist metal wallets. Engineered for durability, RFID-blocking security, and a sleek look. Designed to safely carry cards and cash for everyday life and travel."
+        },
+        {
+          "location": "DURABLE DESIGN",
+          "action": "replace",
+          "content": "**BUILT TO LAST** Our wallets are crafted from aerospace-grade materials like aluminum, titanium, and carbon fiber, ensuring exceptional durability and lightweight comfort. Inspired by the needs of a modern, minimalist lifestyle, Ridge combines cutting-edge design with a lifetime warranty, reflecting our ongoing commitment to quality, simplicity, and exceeding expectations."
+        }
+      ],
+      "adds": [],
+      "deletes": []
+    },
+    "page_text": "RIDGE WALLETS, Metal, RFID-blocking wallets designed to carry cards and cash safely and securely.\n\n**DURABLE DESIGN** Our materials are chosen with care and a thoughtful connection to the insights of our growing community — setting our North Star as we strive to improve everyday. Together we can do more with less."
+  },
+  {
+    "variant_id": 14,
+    "hypothesis_name": "variant_14",
+    "hypothesis_rationale": "",
+    "edit_plan": {
+      "edits": [
+        {
+          "target": "headline",
+          "original": "RIDGE WALLETS, Metal, RFID-blocking wallets designed to carry cards and cash safely and securely.",
+          "suggestion": "RIDGE WALLETS – Premium Metal, RFID-Blocking Wallets Built for Durability, Security, and Modern Minimalism."
+        },
+        {
+          "target": "description",
+          "original": "**DURABLE DESIGN** Our materials are chosen with care and a thoughtful connection to the insights of our growing community — setting our North Star as we strive to improve everyday. Together we can do more with less.",
+          "suggestion": "**DURABLE & MODERN DESIGN** Our wallets are crafted from premium metals like aluminum and titanium, ensuring exceptional durability and a lasting, minimalist look. Engineered with RFID-blocking technology for security and backed by a lifetime warranty, Ridge Wallets are trusted by travelers, tech enthusiasts, and those seeking a high-quality, slim solution for everyday carry."
+        }
+      ],
+      "adds": [],
+      "deletes": []
+    },
+    "page_text": "RIDGE WALLETS, Metal, RFID-blocking wallets designed to carry cards and cash safely and securely.\n\n**DURABLE DESIGN** Our materials are chosen with care and a thoughtful connection to the insights of our growing community — setting our North Star as we strive to improve everyday. Together we can do more with less."
+  },
+  {
+    "variant_id": 15,
+    "hypothesis_name": "variant_15",
+    "hypothesis_rationale": "",
+    "edit_plan": {
+      "edits": [
+        {
+          "location": "PAGE_START",
+          "action": "replace",
+          "content": "RIDGE WALLETS: Premium metal, RFID-blocking wallets engineered for everyday use. Carry your cards and cash securely—built for those who value minimalist, modern design, exceptional durability, and lifetime performance."
+        },
+        {
+          "location": "after:PAGE_START",
+          "action": "add",
+          "content": "**WHY CHOOSE RIDGE?**\n- **Ultra-Durable:** Constructed from high-grade aluminum and titanium for unmatched longevity.\n- **Minimalist & Slim:** Designed for a streamlined pocket profile—ideal for anyone who dislikes bulky wallets.\n- **RFID Protection:** Keeps your information safe from digital theft.\n- **Travel-Ready:** Secure, compact, and perfect for frequent travelers.\n- **Lifetime Warranty:** Invest once and carry with confidence for years.\n- **Customizable:** Available in a range of stylish finishes for gifts or personal use."
+        },
+        {
+          "location": "DURABLE DESIGN",
+          "action": "replace",
+          "content": "**DURABLE DESIGN**\nWe carefully select premium materials, guided by feedback from our community to deliver wallets that stand the test of time. Ridge is dedicated to making everyday essentials better—helping you do more with less, while enjoying a wallet that’s both practical and refined."
+        }
+      ],
+      "adds": [],
+      "deletes": []
+    },
+    "page_text": "RIDGE WALLETS, Metal, RFID-blocking wallets designed to carry cards and cash safely and securely.\n\n**DURABLE DESIGN** Our materials are chosen with care and a thoughtful connection to the insights of our growing community — setting our North Star as we strive to improve everyday. Together we can do more with less."
+  },
+  {
+    "variant_id": 16,
+    "hypothesis_name": "variant_16",
+    "hypothesis_rationale": "",
+    "edit_plan": {
+      "edits": [
+        {
+          "location": "PAGE_START",
+          "change_type": "replace",
+          "original": "RIDGE WALLETS, Metal, RFID-blocking wallets designed to carry cards and cash safely and securely.",
+          "suggested": "RIDGE WALLETS – Premium, minimalist metal wallets engineered for maximum durability, RFID protection, and a lifetime of secure, compact everyday carry."
+        },
+        {
+          "location": "PAGE_START",
+          "change_type": "modify",
+          "original": "**DURABLE DESIGN** Our materials are chosen with care and a thoughtful connection to the insights of our growing community — setting our North Star as we strive to improve everyday. Together we can do more with less.",
+          "suggested": "**DURABLE DESIGN** Crafted from high-grade aluminum and titanium, Ridge wallets are built to outlast traditional alternatives. Each wallet reflects insights from our passionate community, blending modern design, functional innovation, and a lifetime warranty for peace of mind. Together, we help you do more with less."
+        }
+      ],
+      "adds": [],
+      "deletes": []
+    },
+    "page_text": "RIDGE WALLETS, Metal, RFID-blocking wallets designed to carry cards and cash safely and securely.\n\n**DURABLE DESIGN** Our materials are chosen with care and a thoughtful connection to the insights of our growing community — setting our North Star as we strive to improve everyday. Together we can do more with less."
+  },
+  {
+    "variant_id": 17,
+    "hypothesis_name": "variant_17",
+    "hypothesis_rationale": "",
+    "edit_plan": {
+      "edits": [
+        {
+          "location": "PAGE_START",
+          "action": "replace",
+          "content": "RIDGE WALLETS – Premium, minimalist metal wallets engineered for durability and RFID-blocking security. Crafted to carry cards and cash efficiently and safely, Ridge wallets are sleek, modern, and long-lasting — ideal for those who value both form and function."
+        },
+        {
+          "location": "after: RIDGE WALLETS...",
+          "action": "replace",
+          "content": "**ENDURING DURABILITY** Every Ridge wallet is built from premium materials—such as aluminum and titanium—for unmatched longevity and a lifetime of reliable use. Our RFID-blocking technology protects your privacy, while the minimalist design keeps your pocket slim and organized. We listen to our community feedback as we continually refine our craftsmanship, making Ridge the essential choice for those seeking a modern, efficient wallet."
+        }
+      ],
+      "adds": [],
+      "deletes": []
+    },
+    "page_text": "RIDGE WALLETS, Metal, RFID-blocking wallets designed to carry cards and cash safely and securely.\n\n**DURABLE DESIGN** Our materials are chosen with care and a thoughtful connection to the insights of our growing community — setting our North Star as we strive to improve everyday. Together we can do more with less."
+  },
+  {
+    "variant_id": 18,
+    "hypothesis_name": "variant_18",
+    "hypothesis_rationale": "",
+    "edit_plan": {
+      "proposed_edits": [
+        {
+          "location": "headline",
+          "current_text": "RIDGE WALLETS, Metal, RFID-blocking wallets designed to carry cards and cash safely and securely.",
+          "suggested_text": "RIDGE WALLETS – Premium Metal, RFID-Blocking Minimalist Wallets Built for Durability, Security, and Modern Everyday Carry."
+        },
+        {
+          "location": "intro_paragraph",
+          "current_text": "**DURABLE DESIGN** Our materials are chosen with care and a thoughtful connection to the insights of our growing community — setting our North Star as we strive to improve everyday. Together we can do more with less.",
+          "suggested_text": "**Engineered for Everyday, Built to Last**: Ridge wallets feature ultra-durable, premium metals—including aluminum and titanium—intentionally crafted for maximum longevity and modern style. RFID-blocking protection ensures security, while our minimalist design delivers ultimate comfort for travel, gifting, or daily use. Discover why Ridge is the top choice for those who demand reliability, innovative design, and a lifetime warranty."
+        }
+      ],
+      "adds": [],
+      "deletes": [],
+      "edits": []
+    },
+    "page_text": "RIDGE WALLETS, Metal, RFID-blocking wallets designed to carry cards and cash safely and securely.\n\n**DURABLE DESIGN** Our materials are chosen with care and a thoughtful connection to the insights of our growing community — setting our North Star as we strive to improve everyday. Together we can do more with less."
+  },
+  {
+    "variant_id": 19,
+    "hypothesis_name": "variant_19",
+    "hypothesis_rationale": "",
+    "edit_plan": {
+      "edits": [
+        {
+          "target": "PAGE_START",
+          "action": "replace_text",
+          "text": "RIDGE WALLETS: Premium, minimalist, metal wallets for everyday carry. RFID-blocking and engineered for security, efficiency, and lasting durability."
+        },
+        {
+          "target": "DURABLE DESIGN",
+          "action": "replace_text",
+          "text": "**ENDURING CRAFTSMANSHIP & MODERN AESTHETICS** Ridge Wallets are designed for a lifetime of use, utilizing aerospace-grade materials like aluminum and titanium to ensure unmatched strength. Inspired by our community, every detail emphasizes minimalism, security, and longevity—making Ridge an ideal gift and everyday essential for those who value modern design and practicality."
+        }
+      ],
+      "adds": [],
+      "deletes": []
+    },
+    "page_text": "RIDGE WALLETS, Metal, RFID-blocking wallets designed to carry cards and cash safely and securely.\n\n**DURABLE DESIGN** Our materials are chosen with care and a thoughtful connection to the insights of our growing community — setting our North Star as we strive to improve everyday. Together we can do more with less."
+  },
+  {
+    "variant_id": 20,
+    "hypothesis_name": "variant_20",
+    "hypothesis_rationale": "",
+    "edit_plan": {
+      "edits": [
+        {
+          "location": "PAGE_START",
+          "action": "replace",
+          "content": "RIDGE WALLETS – Premium, minimalist metal wallets engineered for everyday carry. RFID-blocking, ultra-durable, and thoughtfully designed to securely protect your cards and cash with style."
+        },
+        {
+          "location": "after:RIDGE WALLETS",
+          "action": "add",
+          "content": "**Superior Durability**: Constructed from aerospace-grade aluminum, titanium, or carbon fiber, Ridge Wallets are built for a lifetime of use – minimizing waste and maximizing performance.\n\n**Minimalist Functionality**: Experience an ultra-slim profile that fits comfortably in any pocket, making Ridge ideal for those who value efficiency and hate bulk.\n\n**Lifetime Guarantee**: Every Ridge Wallet comes with a lifetime warranty, reflecting our commitment to lasting quality and your peace of mind.\n\n**Trusted by Travelers and Tech Enthusiasts**: Perfect for gifting, travel, or daily use. Ridge's iconic industrial design is highly rated by minimalist and tech-forward communities."
+        },
+        {
+          "location": "DURABLE DESIGN",
+          "action": "replace",
+          "content": "**Thoughtful, Community-Inspired Design**: Every material and detail is chosen in response to insights from our diverse, growing community. Our mission is to do more with less by refining what truly matters in everyday carry."
+        }
+      ],
+      "adds": [],
+      "deletes": []
+    },
+    "page_text": "RIDGE WALLETS, Metal, RFID-blocking wallets designed to carry cards and cash safely and securely.\n\n**DURABLE DESIGN** Our materials are chosen with care and a thoughtful connection to the insights of our growing community — setting our North Star as we strive to improve everyday. Together we can do more with less."
+  },
+  {
+    "variant_id": 21,
+    "hypothesis_name": "variant_21",
+    "hypothesis_rationale": "",
+    "edit_plan": {
+      "edits": [
+        {
+          "location": "PAGE_START",
+          "change_type": "replace",
+          "old_text": "RIDGE WALLETS, Metal, RFID-blocking wallets designed to carry cards and cash safely and securely.",
+          "new_text": "Ridge Wallets are premium, metal RFID-blocking wallets engineered for exceptional durability, minimalism, and secure everyday carry."
+        },
+        {
+          "location": "PAGE_START",
+          "change_type": "add_after",
+          "old_text": "Ridge Wallets are premium, metal RFID-blocking wallets engineered for exceptional durability, minimalism, and secure everyday carry.",
+          "new_text": "**PREMIUM YET UNDERSTATED** The Ridge Wallet is recognized for its minimalist design that feels premium without being flashy—making it a top choice for thoughtful gifts, travel, and users who value sleek practicality."
+        },
+        {
+          "location": "PAGE_START",
+          "change_type": "replace",
+          "old_text": "**DURABLE DESIGN** Our materials are chosen with care and a thoughtful connection to the insights of our growing community — setting our North Star as we strive to improve everyday. Together we can do more with less.",
+          "new_text": "**BUILT TO LAST** Thoughtfully selected materials like aluminum and titanium ensure your Ridge Wallet withstands years of daily use—supported by a lifetime warranty for lasting peace of mind."
+        }
+      ],
+      "adds": [],
+      "deletes": []
+    },
+    "page_text": "RIDGE WALLETS, Metal, RFID-blocking wallets designed to carry cards and cash safely and securely.\n\n**DURABLE DESIGN** Our materials are chosen with care and a thoughtful connection to the insights of our growing community — setting our North Star as we strive to improve everyday. Together we can do more with less."
+  },
+  {
+    "variant_id": 22,
+    "hypothesis_name": "variant_22",
+    "hypothesis_rationale": "",
+    "edit_plan": {
+      "edits": [
+        {
+          "location": "PAGE_START",
+          "action": "replace",
+          "content": "RIDGE WALLETS: Premium metal, RFID-blocking wallets engineered for a sleek, minimalist experience. Designed to keep cards and cash safe, secure, and effortlessly accessible—Ridge delivers exceptional durability and modern style in every carry."
+        },
+        {
+          "location": "DURABLE DESIGN",
+          "action": "replace",
+          "content": "**BUILT TO LAST** Every Ridge Wallet is constructed from aerospace-grade materials like aluminum and titanium, combining modern design with lifelong durability. Our commitment to quality and innovation—shaped by real user feedback—ensures each wallet remains ultra-slim, dependable, and perfectly suited for those who value both functionality and refined style. Choose Ridge for a wallet that is guaranteed for life."
+        }
+      ],
+      "adds": [],
+      "deletes": []
+    },
+    "page_text": "RIDGE WALLETS, Metal, RFID-blocking wallets designed to carry cards and cash safely and securely.\n\n**DURABLE DESIGN** Our materials are chosen with care and a thoughtful connection to the insights of our growing community — setting our North Star as we strive to improve everyday. Together we can do more with less."
+  },
+  {
+    "variant_id": 23,
+    "hypothesis_name": "variant_23",
+    "hypothesis_rationale": "",
+    "edit_plan": {
+      "edits": [
+        {
+          "location": "headline",
+          "current": "RIDGE WALLETS, Metal, RFID-blocking wallets designed to carry cards and cash safely and securely.",
+          "proposed": "RIDGE WALLETS – Premium Metal, RFID-Blocking Minimalist Wallets for Everyday Use"
+        },
+        {
+          "location": "intro_paragraph",
+          "current": "DURABLE DESIGN Our materials are chosen with care and a thoughtful connection to the insights of our growing community — setting our North Star as we strive to improve everyday. Together we can do more with less.",
+          "proposed": "**DURABLE & MODERN DESIGN** Crafted from premium materials like aluminum and titanium, Ridge Wallets are built for lifetime durability. With minimalist, RFID-blocking construction and a sleek profile trusted by travelers, tech enthusiasts, and gift-givers, Ridge Wallets help you carry cards and cash securely—without the bulk. Upgrade to a wallet designed to last and fit your lifestyle."
+        }
+      ],
+      "adds": [],
+      "deletes": []
+    },
+    "page_text": "RIDGE WALLETS, Metal, RFID-blocking wallets designed to carry cards and cash safely and securely.\n\n**DURABLE DESIGN** Our materials are chosen with care and a thoughtful connection to the insights of our growing community — setting our North Star as we strive to improve everyday. Together we can do more with less."
+  },
+  {
+    "variant_id": 24,
+    "hypothesis_name": "variant_24",
+    "hypothesis_rationale": "",
+    "edit_plan": {
+      "proposed_edits": [
+        {
+          "location": "PAGE_START",
+          "edit_type": "addition",
+          "content": "Ridge Wallets are ultra-slim, minimalist wallets crafted from premium materials like aluminum, titanium, and carbon fiber. Each wallet is designed for lasting durability, RFID-blocking security, and a sleek profile that eliminates pocket bulk. Engineered for everyday carry, Ridge Wallets combine exceptional functionality with modern style, making them a top-rated choice among tech enthusiasts, minimalists, and gift givers alike."
+        },
+        {
+          "location": "DURABLE DESIGN",
+          "edit_type": "modification",
+          "content": "**DURABLE DESIGN** Every Ridge Wallet uses premium metals chosen for longevity, offering lifetime warranty support. Our thoughtful construction—guided by real user feedback—delivers a slim, secure wallet known for its reliability, minimalist appeal, and positive reputation across the EDC community."
+        },
+        {
+          "location": "PAGE_END",
+          "edit_type": "addition",
+          "content": "Whether you’re searching for a practical gift, upgrading your everyday carry, or looking for eco-conscious alternatives, Ridge stands out for its blend of innovation, quality, and timeless modern design."
+        }
+      ],
+      "adds": [],
+      "deletes": [],
+      "edits": []
+    },
+    "page_text": "RIDGE WALLETS, Metal, RFID-blocking wallets designed to carry cards and cash safely and securely.\n\n**DURABLE DESIGN** Our materials are chosen with care and a thoughtful connection to the insights of our growing community — setting our North Star as we strive to improve everyday. Together we can do more with less."
+  },
+  {
+    "variant_id": 25,
+    "hypothesis_name": "variant_25",
+    "hypothesis_rationale": "",
+    "edit_plan": {
+      "edits": [
+        {
+          "target": "headline",
+          "action": "replace",
+          "content": "Ridge Wallets: Premium Metal Wallets for Everyday Carry"
+        },
+        {
+          "target": "intro_text",
+          "action": "replace",
+          "content": "Ridge Wallets are ultra-slim, RFID-blocking metal wallets designed to last a lifetime. Built from premium materials like aluminum and titanium, Ridge ensures your cards and cash are protected with a modern, minimalist style."
+        },
+        {
+          "target": "subhead_durable_design",
+          "action": "replace",
+          "content": "**Engineered for Durability, Crafted for Life**"
+        }
+      ],
+      "adds": [],
+      "deletes": []
+    },
+    "page_text": "RIDGE WALLETS, Metal, RFID-blocking wallets designed to carry cards and cash safely and securely.\n\n**DURABLE DESIGN** Our materials are chosen with care and a thoughtful connection to the insights of our growing community — setting our North Star as we strive to improve everyday. Together we can do more with less."
+  }
+]
